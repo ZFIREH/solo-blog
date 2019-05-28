@@ -11,7 +11,7 @@
 ### 最新
 
 * [SSH免密码登陆原理](https://www.zhouhuo.com.cn/articles/2019/05/26/1558879938411.html)
-* [CentOS7开放端口](https://www.zhouhuo.com.cn/articles/2019/05/26/1558879808476.html)
+* [CentOS7 防火墙 firewalld](https://www.zhouhuo.com.cn/articles/2019/05/26/1558879808476.html)
 * [MySQL安装之yum安装](https://www.zhouhuo.com.cn/articles/2019/05/26/1558878733328.html)
 
 
