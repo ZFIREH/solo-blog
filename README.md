@@ -2,7 +2,7 @@
 程序员ZFIREH
 </h2>
 
-<h4 align="center">为 API 生，为框架死，为debug奋斗一辈子。</h4>
+<h4 align="center">Premature optimization is the root of all evil!</h4>
 <p align="center"><a title="程序员ZFIREH" target="_blank" href="https://github.com/ZFIREH/solo-blog"><img src="https://img.shields.io/github/last-commit/ZFIREH/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/ZFIREH/solo-blog"><img src="https://img.shields.io/github/repo-size/ZFIREH/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
